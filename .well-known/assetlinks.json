@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.safekey.autofilltestclient",
+      "sha256_cert_fingerprints": [
+        "97:1A:C8:8A:89:F8:77:39:57:75:05:07:5F:77:3E:D5:64:A4:15:2A:39:AE:68:5B:87:AF:94:C9:90:5A:E5:B0"
+      ]
+    }
+  }
+]
